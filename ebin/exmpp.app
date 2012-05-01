@@ -45,7 +45,6 @@
         exmpp_session,
         exmpp_socket, % Compatibility modules disabled:
         ejabberd_socket,
-        ejabberd_zlib,
         exmpp_bosh,
         exmpp_known_attrs,
         exmpp_known_elems,
